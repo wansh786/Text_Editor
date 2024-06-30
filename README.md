@@ -25,3 +25,5 @@ A simple React application that allows users to edit text with various font sett
 1. Clone the repository:
    ```sh
    git clone <repository-url>
+### Deployed Link:
+https://euphonious-nasturtium-d62d9e.netlify.app/
